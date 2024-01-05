@@ -26,7 +26,8 @@
   "interstitial_inverval": 5,
   "primary_ads": "ADMOB",
   "list_ads": [
-      "UNITY"
+    "ADMOB",
+    "UNITY"
   ],
   "force_redirect": false,
   "redirect_title": "App Crash",
